@@ -1,6 +1,6 @@
 # spacemacs-theme.vim
 
-A theme modelled after [nashamri/spacemacs-theme](https://github.com/nashamri/spacemacs-theme/), for Vim and iTerm. Intended for use only in true-colour terminals. Work in progress.
+A theme modelled after [nashamri/spacemacs-theme](https://github.com/nashamri/spacemacs-theme/), for Vim and iTerm. Intended for use only in true-colour terminals. Work in progress. Lightly edited for my own needs.
 
 ![](screenshots/jsx-demo.png)
 ![](screenshots/error.png)
