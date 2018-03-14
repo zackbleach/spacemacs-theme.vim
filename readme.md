@@ -1,6 +1,6 @@
 # spacemacs-theme.vim
 
-A theme modelled after [nashamri/spacemacs-theme](https://github.com/nashamri/spacemacs-theme/), for Vim and iTerm. Intended for use only in true-colour terminals. Work in progress. Lightly edited for my own needs.
+A theme modelled after [nashamri/spacemacs-theme](https://github.com/nashamri/spacemacs-theme/), for Vim and iTerm. Intended for use only in true-colour terminals. Work in progress. Lightly edited to be more consistent with the [Alacritty Spacemacs theme](https://github.com/aaron-williamson/base16-alacritty/).
 
 ![](screenshots/jsx-demo.png)
 ![](screenshots/error.png)
@@ -8,7 +8,7 @@ A theme modelled after [nashamri/spacemacs-theme](https://github.com/nashamri/sp
 ## Usage
 
 ### Vim
-Use your favourite plugin manager to track this repo (`colepeters/spacemacs-theme.vim`). Then specify the following in your `.vimrc` / `init.vim` (only tested in Neovim):
+Use your favourite plugin manager to track this repo (`zackbleach/spacemacs-theme.vim`). Then specify the following in your `.vimrc` / `init.vim` (only tested in Neovim):
 
 ```vimL
 if (has("termguicolors"))
