@@ -22,7 +22,7 @@
 " 0E | keyword               | blue
 " 0F | act2                  | dark purple
 " ---|-----------------------|--------------
-let s:gui00 = "292b2e"
+let s:gui00 = "242629"
 let s:gui01 = "212026"
 let s:gui02 = "5d4d7a"
 let s:gui03 = "68727c"
